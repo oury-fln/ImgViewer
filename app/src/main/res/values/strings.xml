@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">AndroidTest2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="input_url" />
+    <string name="url_hint">url</string>
+    <string name="input_password" />
+    <string name="password_hint">input</string>
+    <string name="login_btn">bottom</string>
+    <string name="save_btn">save</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="open_setting_btn">setting</string>
+    <string name="open_image_btn">continue</string>
+    <string name="open_magnet_btn">magnet</string>
+    <string name="last_btn">上一个</string>
+    <string name="next_btn">下一个</string>
+    <string name="viewed_text">已看过</string>
+    <string name="unviewed_text">未看过</string>
+    <string name="copied_text">已复制</string>
+    <string name="uncopied_text">未复制</string>
+    <string name="copied_chk">已复制</string>
+    <string name="deleted_chk">已删除</string>
+    <string name="copy_btn">复制</string>
+    <string name="delete_btn">删除</string>
+</resources>
